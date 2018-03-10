@@ -72,7 +72,7 @@ console.log(response.data[0])
                                         <img class="uk-border-circle" width="40" height="40" src="${brewIcon}">
                                     </div>
                                     <div class="uk-width-expand">
-                                        <h3 id="card-${breweryId}" class="uk-card-title uk-margin-remove-bottom">${alphabet[i]}. ${breweryName}</h3>
+                                        <h3 id="card-${breweryId}" class="uk-card-title uk-margin-remove-bottom">${breweryName}</h3>
                                     </div>
                                 </div>
                             </div>
